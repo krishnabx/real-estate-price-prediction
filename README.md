@@ -9,26 +9,24 @@ Interactive Web App | ML Model | Flask API | Frontend UI
 
 ## 🚀 Overview
 
-This project is a complete end-to-end machine learning system that predicts home prices based on square footage, bedrooms, bathrooms, and location.
+This project is a complete **end-to-end machine learning** system that predicts home prices based on square footage, bedrooms, bathrooms, and location.
 
 It includes:
 
-A clean frontend UI (HTML/CSS/JS)
-
-A Flask backend API
-
-A trained machine learning regression model
-
-A real-time prediction pipeline
-
-Fully structured project files (ready for GitHub + portfolio)
+- A clean frontend UI (HTML/CSS/JS)
+- A Flask backend API
+- A trained machine learning regression model
+- A real-time prediction pipeline
+- Fully structured project files (ready for GitHub + portfolio)
 
 This is the kind of project that shows you can build, deploy, and integrate ML into real products — not just run models in notebooks.
 
-🧠 Tech Stack
+---
 
-Machine Learning: Scikit-Learn, Pandas, NumPy
-Backend: Flask (Python)
+## 🧠 Tech Stack
+
+**Machine Learning:** Scikit-Learn, Pandas, NumPy
+**Backend:** Flask (Python)
 Frontend: HTML, CSS, JavaScript
 Model Serving: REST API
 Tools: VS Code, Git, JSON, Python environment

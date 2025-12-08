@@ -8,27 +8,27 @@ Once the final model was ready, I built a Flask API that returns predictions in 
 
 ---
 
-## 📸 Demo  
+## Demo  
 ![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
 
 
 ---
 
-## 🔍 Project Overview  
+## Project Overview  
 This project demonstrates how to take a machine learning model **all the way into a working web app**.
 
 The system consists of:
 
-- 🧠 **ML Model (Scikit-Learn)** trained on housing data  
-- 🐍 **Flask API** to serve predictions  
-- 🌐 **Frontend (HTML/CSS/JS)** for user input  
-- 🔄 **Real-time inference** (API → UI update)  
+- **ML Model (Scikit-Learn)** trained on housing data  
+- **Flask API** to serve predictions  
+- **Frontend (HTML/CSS/JS)** for user input  
+- **Real-time inference** (API → UI update)  
 
 Users can enter square footage, number of bedrooms/bathrooms, and location, and instantly receive a price estimate.
 
 ---
 
-## 🧠 Machine Learning Steps  
+## Machine Learning Steps  
 - Data cleaning (handling missing values, outliers)  
 - Feature engineering  
 - Model training using Linear Regression  
@@ -37,7 +37,7 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib  
 **Backend:** Flask (Python)  
 **Frontend:** HTML, CSS, JavaScript  

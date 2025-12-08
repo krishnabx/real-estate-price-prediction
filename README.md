@@ -1,15 +1,15 @@
 # 🏡 End-to-End ML Home Price Prediction
 
-A simple, production-style machine learning project that predicts home prices using  
-square footage, bedrooms, bathrooms, and location.  
 Built with a complete ML → API → Frontend workflow.
+
+I built this as a complete end-to-end machine learning application — not just a notebook model. I started by loading and cleaning the housing dataset, handling missing values, and performing outlier detection using statistical analysis. From there, I engineered new features, explored dimensionality reduction techniques, and evaluated multiple models before selecting the one that performed best. I also used GridSearchCV for hyperparameter tuning and K-Fold cross-validation to validate model stability.
+
+Once the final model was ready, I saved it and built a Flask API in server.py to generate predictions in real time. I then created a simple frontend using HTML, CSS, and JavaScript that collects user inputs like square footage, bedrooms, bathrooms, and location, sends them to the API, and displays the predicted price. After connecting everything end to end, I tested the system locally and organized the project so it runs smoothly as a complete ML web application.
 
 ---
 
 ## 📸 Demo  
 ![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
-
-*(Replace the file name above with the actual name of your screenshot image.)*
 
 ---
 
@@ -42,6 +42,3 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 **Frontend:** HTML, CSS, JavaScript  
 **Tools:** VS Code, Git, JSON  
 
----
-
-## 📂 Project Structure  

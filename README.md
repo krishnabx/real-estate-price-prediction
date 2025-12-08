@@ -6,12 +6,12 @@ I built this as a complete end-to-end machine learning project. I started by loa
 
 Once the final model was ready, I built a Flask API that returns predictions in real time. I then created a frontend using HTML, CSS, and JavaScript that collects user inputs like square footage, bedrooms, bathrooms, and location, sends them to the API, and displays the predicted price. After connecting everything end to end, I tested the system locally and organized the project so it runs smoothly as a complete ML web application.
 
----
+<p align="center">· · ·</p>
 
 ## 📸 Demo  
 ![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
 
----
+<br>
 
 ## 🔍 Project Overview  
 This project demonstrates how to take a machine learning model **all the way into a working web app**.

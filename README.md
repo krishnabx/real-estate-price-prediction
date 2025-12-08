@@ -7,7 +7,7 @@ Built with a complete ML → API → Frontend workflow.
 ---
 
 ## 📸 Demo  
-![App UI](real_estate_price_prediction.png)
+![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
 
 *(Replace the file name above with the actual name of your screenshot image.)*
 

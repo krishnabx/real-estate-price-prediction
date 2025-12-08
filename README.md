@@ -35,14 +35,16 @@ This is the kind of project that shows you can build, deploy, and integrate ML i
 
 ## 📌 Features
 
-- Predicts home prices instantly
+✔️ Predicts home prices instantly
 ✔️ Real-time API using Flask
 ✔️ Trained model + preprocessing pipeline
-✔️ Modern UI with blurred real-estate background
+✔️ Modern UI with real-estate background
 ✔️ Location dropdown generated dynamically from JSON
 ✔️ Clean separation of concerns (frontend ↔ backend ↔ model)
 
-🗂️ Project Structure
+---
+
+## 🗂️ Project Structure
 ├── client
 │   ├── app.html          # Frontend UI
 │   ├── app.js            # Handles API calls

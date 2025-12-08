@@ -38,7 +38,7 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 
 ## 🛠️ Tech Stack  
 **Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib  
-**Backend:** Flask (Python)
+**Backend:** Flask (Python)  
 **Frontend:** HTML, CSS, JavaScript  
 **Development:** Python, Jupyter Notebook  
 **Tools:** VS Code, Git, JSON  

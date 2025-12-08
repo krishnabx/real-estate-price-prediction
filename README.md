@@ -11,6 +11,7 @@ Once the final model was ready, I built a Flask API that returns predictions in 
 ## 📸 Demo  
 ![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
 
+
 ---
 
 ## 🔍 Project Overview  
@@ -42,5 +43,8 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 **Frontend:** HTML, CSS, JavaScript  
 **Development:** Python, Jupyter Notebook  
 **Tools:** VS Code, Git, JSON  
+
+<p align="center">Thanks for reading! Feedback and suggestions are always welcome.<br>Always building, always learning :)</p>
+
 
 <p align="center">· · ·</p>

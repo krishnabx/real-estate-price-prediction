@@ -2,9 +2,9 @@
 
 Built with a complete ML → API → Frontend workflow.
 
-I built this as a complete end-to-end machine learning application - not just a notebook model. I started by loading and cleaning the housing dataset, handling missing values, and performing outlier detection using statistical analysis. From there, I engineered new features, explored dimensionality reduction techniques, and evaluated multiple models before selecting the one that performed best. I also used GridSearchCV for hyperparameter tuning and K-Fold cross-validation to validate model stability.
+I built this as a complete end-to-end machine learning project. I started by loading and cleaning the housing dataset, handling missing values, and performing outlier detection using statistical analysis. From there, I engineered new features, explored dimensionality reduction techniques, and evaluated multiple models. I used GridSearchCV for hyperparameter tuning and applied K-Fold cross-validation to validate model stability.
 
-Once the final model was ready, I saved it and built a Flask API in server.py to generate predictions in real time. I then created a simple frontend using HTML, CSS, and JavaScript that collects user inputs like square footage, bedrooms, bathrooms, and location, sends them to the API, and displays the predicted price. After connecting everything end to end, I tested the system locally and organized the project so it runs smoothly as a complete ML web application.
+Once the final model was ready, I built a Flask API that returns predictions in real time. I then created a frontend using HTML, CSS, and JavaScript that collects user inputs like square footage, bedrooms, bathrooms, and location, sends them to the API, and displays the predicted price. After connecting everything end to end, I tested the system locally and organized the project so it runs smoothly as a complete ML web application.
 
 ---
 
@@ -37,8 +37,9 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 ---
 
 ## 🛠️ Tech Stack  
-**ML:** Scikit-Learn, Pandas, NumPy  
+**ML:** Scikit-Learn, Pandas, NumPy , Matplotlib
 **Backend:** Flask (Python)  
 **Frontend:** HTML, CSS, JavaScript  
+**Development:** Python, Jupyter Notebook  
 **Tools:** VS Code, Git, JSON  
 

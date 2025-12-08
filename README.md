@@ -4,7 +4,7 @@ A simple, production-style machine learning project that predicts home prices us
 square footage, bedrooms, bathrooms, and location.  
 Built with a complete ML → API → Frontend workflow.
 
----
+--
 
 ## 📸 Demo  
 ![App UI](real_estate_price_prediction.png)

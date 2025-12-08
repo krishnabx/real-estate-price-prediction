@@ -2,7 +2,7 @@
 
 Interactive Web App | ML Model | Flask API | Frontend UI
 
-<img src="0548e587-daa1-4d71-8072-fcfc2e16eed2.png" width="100%" />
+<https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png>
 🚀 Overview
 
 This project is a complete end-to-end machine learning system that predicts home prices based on square footage, bedrooms, bathrooms, and location.

@@ -11,7 +11,7 @@ Once the final model was ready, I built a Flask API that returns predictions in 
 ## 📸 Demo  
 ![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
 
-
+---
 
 ## 🔍 Project Overview  
 This project demonstrates how to take a machine learning model **all the way into a working web app**.
@@ -37,8 +37,8 @@ Users can enter square footage, number of bedrooms/bathrooms, and location, and 
 ---
 
 ## 🛠️ Tech Stack  
-**ML:** Scikit-Learn, Pandas, NumPy , Matplotlib
-**Backend:** Flask (Python)  
+**Machine Learning:** Scikit-Learn, Pandas, NumPy, Matplotlib  
+**Backend:** Flask (Python)
 **Frontend:** HTML, CSS, JavaScript  
 **Development:** Python, Jupyter Notebook  
 **Tools:** VS Code, Git, JSON  

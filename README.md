@@ -33,7 +33,7 @@ This is the kind of project that shows you can build, deploy, and integrate ML i
 
 ---
 
-##📌✨ Features
+## 📌 Features
 
 - Predicts home prices instantly
 ✔️ Real-time API using Flask

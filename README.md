@@ -27,13 +27,15 @@ This is the kind of project that shows you can build, deploy, and integrate ML i
 
 **Machine Learning:** Scikit-Learn, Pandas, NumPy
 **Backend:** Flask (Python)
-Frontend: HTML, CSS, JavaScript
-Model Serving: REST API
-Tools: VS Code, Git, JSON, Python environment
+**Frontend:** HTML, CSS, JavaScript
+**Model Serving:** REST API
+**Tools:** VS Code, Git, JSON, Python environment
 
-📌 Features
+---
 
-✔️ Predicts home prices instantly
+##📌✨ Features
+
+- Predicts home prices instantly
 ✔️ Real-time API using Flask
 ✔️ Trained model + preprocessing pipeline
 ✔️ Modern UI with blurred real-estate background

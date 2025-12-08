@@ -1,6 +1,6 @@
 # 🏡 End-to-End ML Home Price Prediction
 
-Built with a complete ML → API → Frontend workflow.
+*A complete ML → API → Frontend workflow*
 
 I built this as a complete end-to-end machine learning project. I started by loading and cleaning the housing dataset, handling missing values, and performing outlier detection using statistical analysis. From there, I engineered new features, explored dimensionality reduction techniques, and evaluated multiple models. I used GridSearchCV for hyperparameter tuning and applied K-Fold cross-validation to validate model stability.
 

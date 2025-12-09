@@ -9,7 +9,7 @@ Once the final model was ready, I built a Flask API that returns predictions in 
 ---
 
 ## Demo  
-![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/real%20estate%20price%20prediction.png)
+![App UI](https://github.com/krishnabx/real-estate-price-prediction/blob/main/DIAGRAM.drawio.png)
 
 
 ---
